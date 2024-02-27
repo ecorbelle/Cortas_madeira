@@ -1,0 +1,155 @@
+#Datos de cortas de madeira en Galicia entre 1960 e 1971, tomados da Estadística Forestal de España.
+#Eduardo Corbelle Rico, 8 de setembro de 2017
+#Datos en metros cúbicos
+#O dato de "outrasespecies", así como o de "frondosas", inclúen ao eucalipto
+#-------------------
+
+ano,provincia,grupo,volume
+1960,A Coruña,Coníferas,282097
+1960,Lugo,Coníferas,146463
+1960,Ourense,Coníferas,31957
+1960,Pontevedra,Coníferas,204367
+1960,A Coruña,Cupulíferas,20959
+1960,Lugo,Cupulíferas,48959
+1960,Ourense,Cupulíferas,2705
+1960,Pontevedra,Cupulíferas,11873
+1960,A Coruña,Outras,13231
+1960,Lugo,Outras,22754
+1960,Ourense,Outras,1702
+1960,Pontevedra,Outras,42155
+1960,A Coruña,Eucalipto,10103
+1960,Lugo,Eucalipto,7685
+1960,Ourense,Eucalipto,316
+1960,Pontevedra,Eucalipto,44860
+1961,A Coruña,Coníferas,405357
+1961,Lugo,Coníferas,140419
+1961,Ourense,Coníferas,85407
+1961,Pontevedra,Coníferas,253019
+1961,A Coruña,Frondosas,46550
+1961,Lugo,Frondosas,97509
+1961,Ourense,Frondosas,10059
+1961,Pontevedra,Frondosas,54423
+1961,A Coruña,Eucalipto,16734
+1961,Lugo,Eucalipto,31310
+1961,Ourense,Eucalipto,654
+1961,Pontevedra,Eucalipto,40824
+1962,A Coruña,Coníferas,354399
+1962,Lugo,Coníferas,143044
+1962,Ourense,Coníferas,67781
+1962,Pontevedra,Coníferas,242052
+1962,A Coruña,Frondosas,66168
+1962,Lugo,Frondosas,81023
+1962,Ourense,Frondosas,9957
+1962,Pontevedra,Frondosas,55653
+1962,A Coruña,Eucalipto,43828
+1962,Lugo,Eucalipto,9348
+1962,Ourense,Eucalipto,520
+1962,Pontevedra,Eucalipto,40987
+1963,A Coruña,Coníferas,395028
+1963,Lugo,Coníferas,161138
+1963,Ourense,Coníferas,66177
+1963,Pontevedra,Coníferas,233935
+1963,A Coruña,Eucalipto,26775
+1963,A Coruña,Frondosas,48737
+1963,Lugo,Eucalipto,8331
+1963,Lugo,Frondosas,65294
+1963,Ourense,Eucalipto,459
+1963,Ourense,Frondosas,8445
+1963,Pontevedra,Eucalipto,39031
+1963,Pontevedra,Frondosas,49820
+1964,A Coruña,Coníferas,419513
+1964,Lugo,Coníferas,145381
+1964,Ourense,Coníferas,47097
+1964,Pontevedra,Coníferas,230511
+1964,A Coruña,Eucalipto,18671
+1964,A Coruña,Frondosas,38986
+1964,Lugo,Eucalipto,12020
+1964,Lugo,Frondosas,70478
+1964,Ourense,Eucalipto,272
+1964,Ourense,Frondosas,6065
+1964,Pontevedra,Eucalipto,33511
+1964,Pontevedra,Frondosas,43427
+1965,A Coruña,Coníferas,441906
+1965,Lugo,Coníferas,161923
+1965,Ourense,Coníferas,57131
+1965,Pontevedra,Coníferas,235442
+1965,A Coruña,Eucalipto,35326
+1965,A Coruña,Frondosas,50837
+1965,Lugo,Eucalipto,13209
+1965,Lugo,Frondosas,66517
+1965,Ourense,Eucalipto,198
+1965,Ourense,Frondosas,6130
+1965,Pontevedra,Eucalipto,44145
+1965,Pontevedra,Frondosas,51687
+1966,A Coruña,Coníferas,424699
+1966,Lugo,Coníferas,152186
+1966,Ourense,Coníferas,52650
+1966,Pontevedra,Coníferas,220807
+1966,A Coruña,Eucalipto,35359
+1966,Lugo,Eucalipto,12494
+1966,Ourense,Eucalipto,440
+1966,Pontevedra,Eucalipto,38952
+1966,A Coruña,Frondosas,51463
+1966,Lugo,Frondosas,63921
+1966,Ourense,Frondosas,6432
+1966,Pontevedra,Frondosas,47545
+1967,A Coruña,Coníferas,397353
+1967,Lugo,Coníferas,147095
+1967,Ourense,Coníferas,48034
+1967,Pontevedra,Coníferas,205093
+1967,A Coruña,Eucalipto,47035
+1967,Lugo,Eucalipto,14292
+1967,Ourense,Eucalipto,193
+1967,Pontevedra,Eucalipto,31007
+1967,A Coruña,Frondosas,61258
+1967,Lugo,Frondosas,74615
+1967,Ourense,Frondosas,6252
+1967,Pontevedra,Frondosas,37526
+1968,A Coruña,Coníferas,369053
+1968,Lugo,Coníferas,163324
+1968,Ourense,Coníferas,59584
+1968,Pontevedra,Coníferas,198033
+1968,A Coruña,Eucalipto,66714
+1968,Lugo,Eucalipto,29780
+1968,Ourense,Eucalipto,243
+1968,Pontevedra,Eucalipto,34923
+1968,A Coruña,Frondosas,84325
+1968,Lugo,Frondosas,79576
+1968,Ourense,Frondosas,7775
+1968,Pontevedra,Frondosas,43907
+1969,A Coruña,Coníferas,418633
+1969,Lugo,Coníferas,196448
+1969,Ourense,Coníferas,55525
+1969,Pontevedra,Coníferas,212825
+1969,A Coruña,Eucalipto,75239
+1969,Lugo,Eucalipto,36284
+1969,Ourense,Eucalipto,148
+1969,Pontevedra,Eucalipto,37329
+1969,A Coruña,Frondosas,91606
+1969,Lugo,Frondosas,72541
+1969,Ourense,Frondosas,7780
+1969,Pontevedra,Frondosas,44701
+1970,A Coruña,Coníferas,442034
+1970,Lugo,Coníferas,218492
+1970,Ourense,Coníferas,62794
+1970,Pontevedra,Coníferas,268003
+1970,A Coruña,Eucalipto,77174
+1970,Lugo,Eucalipto,39909
+1970,Ourense,Eucalipto,140
+1970,Pontevedra,Eucalipto,35492
+1970,A Coruña,Frondosas,94766
+1970,Lugo,Frondosas,80801
+1970,Ourense,Frondosas,4255
+1970,Pontevedra,Frondosas,44816
+1971,A Coruña,Coníferas,458551
+1971,Lugo,Coníferas,199315
+1971,Ourense,Coníferas,88103
+1971,Pontevedra,Coníferas,210804
+1971,A Coruña,Eucalipto,75863
+1971,Lugo,Eucalipto,34792
+1971,Ourense,Eucalipto,547
+1971,Pontevedra,Eucalipto,39913
+1971,A Coruña,Frondosas,90560
+1971,Lugo,Frondosas,70955
+1971,Ourense,Frondosas,7088
+1971,Pontevedra,Frondosas,45350

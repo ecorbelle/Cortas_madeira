@@ -1,0 +1,367 @@
+#Datos de cortas de madeira en Galicia entre 1972 e 2004, tomados dos Anuarios de Estadística Agraria.
+#Eduardo Corbelle Rico, 8 de setembro de 2017
+#Datos en metros cúbicos
+#
+#-------------------
+
+ano,provincia,grupo,volume
+1972,A Coruña,Coníferas,498837
+1972,Lugo,Coníferas,260166
+1972,Ourense,Coníferas,85924
+1972,Pontevedra,Coníferas,301295
+1972,A Coruña,Eucalipto,4977
+1972,Lugo,Eucalipto,35592
+1972,Ourense,Eucalipto,310
+1972,Pontevedra,Eucalipto,36417
+1972,A Coruña,Frondosas,4977
+1972,Lugo,Frondosas,67457
+1972,Ourense,Frondosas,5179
+1972,Pontevedra,Frondosas,41188
+1973,A Coruña,Coníferas,591260
+1973,Lugo,Coníferas,250553
+1973,Ourense,Coníferas,91589
+1973,Pontevedra,Coníferas,261900
+1973,A Coruña,Eucalipto,97745
+1973,Lugo,Eucalipto,51019
+1973,Ourense,Eucalipto,334
+1973,Pontevedra,Eucalipto,48391
+1973,A Coruña,Frondosas,113783
+1973,Lugo,Frondosas,141951
+1973,Ourense,Frondosas,6700
+1973,Pontevedra,Frondosas,56902
+1974,A Coruña,Coníferas,569806
+1974,Lugo,Coníferas,314392
+1974,Ourense,Coníferas,116951
+1974,Pontevedra,Coníferas,291030
+1974,A Coruña,Eucalipto,209172
+1974,Lugo,Eucalipto,67305
+1974,Ourense,Eucalipto,548
+1974,Pontevedra,Eucalipto,99775
+1974,A Coruña,Frondosas,230112
+1974,Lugo,Frondosas,113266
+1974,Ourense,Frondosas,6254
+1974,Pontevedra,Frondosas,104061
+1975,A Coruña,Coníferas,476141
+1975,Lugo,Coníferas,299293
+1975,Ourense,Coníferas,178654
+1975,Pontevedra,Coníferas,262571
+1975,A Coruña,Eucalipto,124378
+1975,Lugo,Eucalipto,52977
+1975,Ourense,Eucalipto,453
+1975,Pontevedra,Eucalipto,76011
+1975,A Coruña,Frondosas,138468
+1975,Lugo,Frondosas,89641
+1975,Ourense,Frondosas,4158
+1975,Pontevedra,Frondosas,80056
+1976,A Coruña,Coníferas,631089
+1976,Lugo,Coníferas,366965
+1976,Ourense,Coníferas,151096
+1976,Pontevedra,Coníferas,365604
+1976,A Coruña,Eucalipto,144625
+1976,Lugo,Eucalipto,57437
+1976,Ourense,Eucalipto,305
+1976,Pontevedra,Eucalipto,75379
+1976,A Coruña,Frondosas,160764
+1976,Lugo,Frondosas,94138
+1976,Ourense,Frondosas,10669
+1976,Pontevedra,Frondosas,78597
+1977,A Coruña,Coníferas,607532
+1977,Lugo,Coníferas,259213
+1977,Ourense,Coníferas,226118
+1977,Pontevedra,Coníferas,381435
+1977,A Coruña,Eucalipto,161074
+1977,Lugo,Eucalipto,76535
+1977,Ourense,Eucalipto,345
+1977,Pontevedra,Eucalipto,67444
+1977,A Coruña,Frondosas,176281
+1977,Lugo,Frondosas,116637
+1977,Ourense,Frondosas,5456
+1977,Pontevedra,Frondosas,71299
+1978,A Coruña,Coníferas,506408
+1978,Lugo,Coníferas,293665
+1978,Ourense,Coníferas,166250
+1978,Pontevedra,Coníferas,338977
+1978,A Coruña,Eucalipto,174160
+1978,Lugo,Eucalipto,73350
+1978,Ourense,Eucalipto,574
+1978,Pontevedra,Eucalipto,84109
+1978,A Coruña,Frondosas,190651
+1978,Lugo,Frondosas,109430
+1978,Ourense,Frondosas,10200
+1978,Pontevedra,Frondosas,88068
+1979,A Coruña,Coníferas,510987
+1979,Lugo,Coníferas,373172
+1979,Ourense,Coníferas,174695
+1979,Pontevedra,Coníferas,343256
+1979,A Coruña,Eucalipto,190012
+1979,Lugo,Eucalipto,106492
+1979,Ourense,Eucalipto,138
+1979,Pontevedra,Eucalipto,90204
+1979,A Coruña,Frondosas,203398
+1979,Lugo,Frondosas,128331
+1979,Ourense,Frondosas,4678
+1979,Pontevedra,Frondosas,92960
+1980,A Coruña,Coníferas,486476
+1980,Lugo,Coníferas,332726
+1980,Ourense,Coníferas,152680
+1980,Pontevedra,Coníferas,266906
+1980,A Coruña,Eucalipto,237190
+1980,Lugo,Eucalipto,120360
+1980,Ourense,Eucalipto,445
+1980,Pontevedra,Eucalipto,79429
+1980,A Coruña,Frondosas,249360
+1980,Lugo,Frondosas,146680
+1980,Ourense,Frondosas,9713
+1980,Pontevedra,Frondosas,82159
+1981,A Coruña,Coníferas,458215
+1981,Lugo,Coníferas,380259
+1981,Ourense,Coníferas,173235
+1981,Pontevedra,Coníferas,322466
+1981,A Coruña,Eucalipto,222990
+1981,Lugo,Eucalipto,130163
+1981,Ourense,Eucalipto,631
+1981,Pontevedra,Eucalipto,91006
+1981,A Coruña,Frondosas,233910
+1981,Lugo,Frondosas,155364
+1981,Ourense,Frondosas,2640
+1981,Pontevedra,Frondosas,92909
+1982,A Coruña,Coníferas,506950
+1982,Lugo,Coníferas,403528
+1982,Ourense,Coníferas,115258
+1982,Pontevedra,Coníferas,282151
+1982,A Coruña,Eucalipto,230708
+1982,Lugo,Eucalipto,126252
+1982,Ourense,Eucalipto,721
+1982,Pontevedra,Eucalipto,73690
+1982,A Coruña,Frondosas,241496
+1982,Lugo,Frondosas,147597
+1982,Ourense,Frondosas,5018
+1982,Pontevedra,Frondosas,76511
+1983,A Coruña,Coníferas,860735
+1983,Lugo,Coníferas,412546
+1983,Ourense,Coníferas,108854
+1983,Pontevedra,Coníferas,283686
+1983,A Coruña,Eucalipto,543794
+1983,Lugo,Eucalipto,187590
+1983,Ourense,Eucalipto,1178
+1983,Pontevedra,Eucalipto,115952
+1983,A Coruña,Frondosas,557624
+1983,Lugo,Frondosas,226831
+1983,Ourense,Frondosas,6395
+1983,Pontevedra,Frondosas,120931
+1984,A Coruña,Coníferas,1070779
+1984,Lugo,Coníferas,232461
+1984,Ourense,Coníferas,129484
+1984,Pontevedra,Coníferas,283858
+1984,A Coruña,Eucalipto,657906
+1984,Lugo,Eucalipto,205037
+1984,Ourense,Eucalipto,523
+1984,Pontevedra,Eucalipto,141665
+1984,A Coruña,Frondosas,670727
+1984,Lugo,Frondosas,237497
+1984,Ourense,Frondosas,5973
+1984,Pontevedra,Frondosas,147888
+1985,A Coruña,Coníferas,933251
+1985,Lugo,Coníferas,363890
+1985,Ourense,Coníferas,192081
+1985,Pontevedra,Coníferas,202860
+1985,A Coruña,Eucalipto,605893
+1985,Lugo,Eucalipto,181125
+1985,Ourense,Eucalipto,668
+1985,Pontevedra,Eucalipto,121466
+1985,A Coruña,Frondosas,617318
+1985,Lugo,Frondosas,207167
+1985,Ourense,Frondosas,5990
+1985,Pontevedra,Frondosas,125228
+1986,A Coruña,Coníferas,1087186
+1986,Lugo,Coníferas,412627
+1986,Ourense,Coníferas,285441
+1986,Pontevedra,Coníferas,271984
+1986,A Coruña,Eucalipto,399223
+1986,Lugo,Eucalipto,176014
+1986,Ourense,Eucalipto,1990
+1986,Pontevedra,Eucalipto,285055
+1986,A Coruña,Frondosas,414699
+1986,Lugo,Frondosas,202877
+1986,Ourense,Frondosas,7564
+1986,Pontevedra,Frondosas,292357
+1987,A Coruña,Coníferas,1177012
+1987,Lugo,Coníferas,455510
+1987,Ourense,Coníferas,173671
+1987,Pontevedra,Coníferas,328085
+1987,A Coruña,Eucalipto,466093
+1987,Lugo,Eucalipto,313628
+1987,Ourense,Eucalipto,1282
+1987,Pontevedra,Eucalipto,299562
+1987,A Coruña,Frondosas,479893
+1987,Lugo,Frondosas,357409
+1987,Ourense,Frondosas,7586
+1987,Pontevedra,Frondosas,310164
+1988,A Coruña,Coníferas,1742400
+1988,Lugo,Coníferas,530448
+1988,Ourense,Coníferas,457710
+1988,Pontevedra,Coníferas,438240
+1988,A Coruña,Eucalipto,694350
+1988,Lugo,Eucalipto,292870
+1988,Ourense,Eucalipto,3000
+1988,Pontevedra,Eucalipto,496500
+1988,A Coruña,Frondosas,750590
+1988,Lugo,Frondosas,336183
+1988,Ourense,Frondosas,23320
+1988,Pontevedra,Frondosas,528421
+1989,A Coruña,Coníferas,1390838
+1989,Lugo,Coníferas,681369
+1989,Ourense,Coníferas,466967
+1989,Pontevedra,Coníferas,384370
+1989,A Coruña,Eucalipto,879809
+1989,Lugo,Eucalipto,325187
+1989,Ourense,Eucalipto,1316
+1989,Pontevedra,Eucalipto,397883
+1989,A Coruña,Frondosas,935634
+1989,Lugo,Frondosas,381192
+1989,Ourense,Frondosas,11379
+1989,Pontevedra,Frondosas,428210
+1990,A Coruña,Coníferas,1613362
+1990,Lugo,Coníferas,897326
+1990,Ourense,Coníferas,710357
+1990,Pontevedra,Coníferas,735267
+1990,A Coruña,Eucalipto,1020700
+1990,Lugo,Eucalipto,539020
+1990,Ourense,Eucalipto,4502
+1990,Pontevedra,Eucalipto,495499
+1990,A Coruña,Frondosas,1085335
+1990,Lugo,Frondosas,598918
+1990,Ourense,Frondosas,13132
+1990,Pontevedra,Frondosas,503797
+1991,A Coruña,Coníferas,1438336
+1991,Lugo,Coníferas,1147039
+1991,Ourense,Coníferas,440530
+1991,Pontevedra,Coníferas,591715
+1991,A Coruña,Eucalipto,1087400
+1991,Lugo,Eucalipto,523356
+1991,Ourense,Eucalipto,3375
+1991,Pontevedra,Eucalipto,414969
+1991,A Coruña,Frondosas,1152315
+1991,Lugo,Frondosas,594890
+1991,Ourense,Frondosas,12387
+1991,Pontevedra,Frondosas,435202
+1992,A Coruña,Coníferas,1241626
+1992,Lugo,Coníferas,986992
+1992,Ourense,Coníferas,389451
+1992,Pontevedra,Coníferas,591755
+1992,A Coruña,Eucalipto,905712
+1992,Lugo,Eucalipto,473190
+1992,Ourense,Eucalipto,2912
+1992,Pontevedra,Eucalipto,426409
+1992,A Coruña,Frondosas,966302
+1992,Lugo,Frondosas,540274
+1992,Ourense,Frondosas,12045
+1992,Pontevedra,Frondosas,446324
+1993,A Coruña,Coníferas,1290457
+1993,Lugo,Coníferas,900063
+1993,Ourense,Coníferas,302531
+1993,Pontevedra,Coníferas,462238
+1993,A Coruña,Eucalipto,1380374
+1993,Lugo,Eucalipto,404730
+1993,Ourense,Eucalipto,1917
+1993,Pontevedra,Eucalipto,281994
+1993,A Coruña,Frondosas,1428030
+1993,Lugo,Frondosas,465445
+1993,Ourense,Frondosas,10720
+1993,Pontevedra,Frondosas,307781
+1994,A Coruña,Coníferas,NA
+1994,Lugo,Coníferas,NA
+1994,Ourense,Coníferas,NA
+1994,Pontevedra,Coníferas,NA
+1994,A Coruña,Eucalipto,907229
+1994,Lugo,Eucalipto,409369
+1994,Ourense,Eucalipto,4804
+1994,Pontevedra,Eucalipto,385773
+1994,A Coruña,Frondosas,938373
+1994,Lugo,Frondosas,472238
+1994,Ourense,Frondosas,15658
+1994,Pontevedra,Frondosas,410961
+1995,A Coruña,Coníferas,1240704
+1995,Lugo,Coníferas,1068957
+1995,Ourense,Coníferas,384354
+1995,Pontevedra,Coníferas,424155
+1995,A Coruña,Eucalipto,1362215
+1995,Lugo,Eucalipto,457728
+1995,Ourense,Eucalipto,4451
+1995,Pontevedra,Eucalipto,518990
+1995,A Coruña,Frondosas,1380285
+1995,Lugo,Frondosas,510807
+1995,Ourense,Frondosas,27113
+1995,Pontevedra,Frondosas,548745
+1996,A Coruña,Coníferas,1310810
+1996,Lugo,Coníferas,1128946
+1996,Ourense,Coníferas,405951
+1996,Pontevedra,Coníferas,447950
+1996,A Coruña,Eucalipto,1391280
+1996,Lugo,Eucalipto,467493
+1996,Ourense,Eucalipto,4546
+1996,Pontevedra,Eucalipto,530065
+1996,A Coruña,Frondosas,1413005
+1996,Lugo,Frondosas,531314
+1996,Ourense,Frondosas,31868
+1996,Pontevedra,Frondosas,565840
+1998,A Coruña,Coníferas,1096563
+1998,Lugo,Coníferas,1011224
+1998,Ourense,Coníferas,301926
+1998,Pontevedra,Coníferas,540946
+1998,A Coruña,Eucalipto,1016659
+1998,Lugo,Eucalipto,875479
+1998,Ourense,Eucalipto,7587
+1998,Pontevedra,Eucalipto,865133
+1998,A Coruña,Frondosas,1035000
+1998,Lugo,Frondosas,930480
+1998,Ourense,Frondosas,35606
+1998,Pontevedra,Frondosas,886543
+1999,A Coruña,Coníferas,1110818
+1999,Lugo,Coníferas,1024371
+1999,Ourense,Coníferas,305851
+1999,Pontevedra,Coníferas,547977
+1999,A Coruña,Eucalipto,1029875
+1999,Lugo,Eucalipto,886861
+1999,Ourense,Eucalipto,7685
+1999,Pontevedra,Eucalipto,876379
+1999,A Coruña,Frondosas,1048455
+1999,Lugo,Frondosas,942577
+1999,Ourense,Frondosas,36068
+1999,Pontevedra,Frondosas,898068
+2001,A Coruña,Coníferas,588187
+2001,Lugo,Coníferas,1261212
+2001,Ourense,Coníferas,289864
+2001,Pontevedra,Coníferas,313654
+2001,A Coruña,Eucalipto,1302856
+2001,Lugo,Eucalipto,823813
+2001,Ourense,Eucalipto,9836
+2001,Pontevedra,Eucalipto,415857
+2001,A Coruña,Frondosas,1326564
+2001,Lugo,Frondosas,943146
+2001,Ourense,Frondosas,42281
+2001,Pontevedra,Frondosas,431156
+2002,A Coruña,Coníferas,410725
+2002,Lugo,Coníferas,1159327
+2002,Ourense,Coníferas,199959
+2002,Pontevedra,Coníferas,295042
+2002,A Coruña,Eucalipto,1344982
+2002,Lugo,Eucalipto,853578
+2002,Ourense,Eucalipto,8929
+2002,Pontevedra,Eucalipto,446702
+2002,A Coruña,Frondosas,1367537
+2002,Lugo,Frondosas,974795
+2002,Ourense,Frondosas,45740
+2002,Pontevedra,Frondosas,456942
+2003,A Coruña,Coníferas,672434
+2003,Lugo,Coníferas,1234135
+2003,Ourense,Coníferas,759746
+2003,Pontevedra,Coníferas,539998
+2003,A Coruña,Eucalipto,1672529
+2003,Lugo,Eucalipto,444962
+2003,Ourense,Eucalipto,27332
+2003,Pontevedra,Eucalipto,548272
+2003,A Coruña,Frondosas,1721518
+2003,Lugo,Frondosas,533359
+2003,Ourense,Frondosas,42484
+2003,Pontevedra,Frondosas,617200

@@ -1,0 +1,211 @@
+#Datos de cortas de madeira en Galicia entre 2005 e 2018, tomados dos Anuarios de Estadística Forestal.
+#Eduardo Corbelle Rico, 8 de setembro de 2017 (actualizado 24 abril 2021)
+#Datos en metros cúbicos. O dato para "Frondosas" inclúe ao eucalipto.
+#
+#-------------------
+
+ano,provincia,grupo,volume
+2005,A Coruña,Coníferas,880599
+2005,Lugo,Coníferas,1182789
+2005,Ourense,Coníferas,845590
+2005,Pontevedra,Coníferas,709310
+2005,A Coruña,Eucalipto,1683005
+2005,Lugo,Eucalipto,778057
+2005,Ourense,Eucalipto,20319
+2005,Pontevedra,Eucalipto,566243
+2005,A Coruña,Frondosas,1756698
+2005,Lugo,Frondosas,962686
+2005,Ourense,Frondosas,49969
+2005,Pontevedra,Frondosas,587399
+2006,A Coruña,Coníferas,806139
+2006,Lugo,Coníferas,1065194
+2006,Ourense,Coníferas,894809
+2006,Pontevedra,Coníferas,678282
+2006,A Coruña,Eucalipto,1626536
+2006,Lugo,Eucalipto,730048
+2006,Ourense,Eucalipto,10286
+2006,Pontevedra,Eucalipto,594586
+2006,A Coruña,Frondosas,1676523
+2006,Lugo,Frondosas,919271
+2006,Ourense,Frondosas,37203
+2006,Pontevedra,Frondosas,609567
+2007,A Coruña,Coníferas,966000
+2007,Lugo,Coníferas,894000
+2007,Ourense,Coníferas,665000
+2007,Pontevedra,Coníferas,1130000
+2007,A Coruña,Eucalipto,1695000
+2007,Lugo,Eucalipto,689000
+2007,Ourense,Eucalipto,2000
+2007,Pontevedra,Eucalipto,785000
+2007,A Coruña,Frondosas,1782800
+2007,Lugo,Frondosas,848800
+2007,Ourense,Frondosas,59300
+2007,Pontevedra,Frondosas,807400
+2008,A Coruña,Coníferas,1033800
+2008,Lugo,Coníferas,949000
+2008,Ourense,Coníferas,715000
+2008,Pontevedra,Coníferas,590100
+2008,A Coruña,Eucalipto,1977000
+2008,Lugo,Eucalipto,789000
+2008,Ourense,Eucalipto,2000
+2008,Pontevedra,Eucalipto,910000
+2008,A Coruña,Frondosas,2086800
+2008,Lugo,Frondosas,984600
+2008,Ourense,Frondosas,74500
+2008,Pontevedra,Frondosas,943600
+2009,A Coruña,Coníferas,754518
+2009,Lugo,Coníferas,712221
+2009,Ourense,Coníferas,522050
+2009,Pontevedra,Coníferas,887510
+2009,A Coruña,Eucalipto,1655745
+2009,Lugo,Eucalipto,662880
+2009,Ourense,Eucalipto,1670
+2009,Pontevedra,Eucalipto,764000
+2009,A Coruña,Frondosas,1715855
+2009,Lugo,Frondosas,725523
+2009,Ourense,Frondosas,40810
+2009,Pontevedra,Frondosas,782180
+2010,A Coruña,Coníferas,818074
+2010,Lugo,Coníferas,770797
+2010,Ourense,Coníferas,559520
+2010,Pontevedra,Coníferas,957440
+2010,A Coruña,Eucalipto,1904136
+2010,Lugo,Eucalipto,762410
+2010,Ourense,Eucalipto,1750
+2010,Pontevedra,Eucalipto,878600
+2010,A Coruña,Frondosas,1963661
+2010,Lugo,Frondosas,870909
+2010,Ourense,Frondosas,39950
+2010,Pontevedra,Frondosas,896346
+2011,A Coruña,Coníferas,879975
+2011,Lugo,Coníferas,837846
+2011,Ourense,Coníferas,633655
+2011,Pontevedra,Coníferas,1036402
+2011,A Coruña,Eucalipto,2204797
+2011,Lugo,Eucalipto,904395
+2011,Ourense,Eucalipto,2020
+2011,Pontevedra,Eucalipto,1034176
+2011,A Coruña,Frondosas,2269257
+2011,Lugo,Frondosas,1007075
+2011,Ourense,Frondosas,28920
+2011,Pontevedra,Frondosas,1051316
+2012,A Coruña,Coníferas,880050
+2012,Lugo,Coníferas,839527
+2012,Ourense,Coníferas,635473
+2012,Pontevedra,Coníferas,982818
+2012,A Coruña,Eucalipto,2116800
+2012,Lugo,Eucalipto,865300
+2012,Ourense,Eucalipto,1975
+2012,Pontevedra,Eucalipto,968208
+2012,A Coruña,Frondosas,2182460
+2012,Lugo,Frondosas,987773
+2012,Ourense,Frondosas,29282
+2012,Pontevedra,Frondosas,982492
+2013,A Coruña,Coníferas,903070
+2013,Lugo,Coníferas,863920
+2013,Ourense,Coníferas,646210
+2013,Pontevedra,Coníferas,1005210
+2013,A Coruña,Eucalipto,2206970
+2013,Lugo,Eucalipto,905300
+2013,Ourense,Eucalipto,2020
+2013,Pontevedra,Eucalipto,1014000
+2013,A Coruña,Frondosas,2276440
+2013,Lugo,Frondosas,1032880
+2013,Ourense,Frondosas,31518
+2013,Pontevedra,Frondosas,2034490
+2014,A Coruña,Coníferas,829140
+2014,Lugo,Coníferas,856770
+2014,Ourense,Coníferas,616380
+2014,Pontevedra,Coníferas,960030
+2014,A Coruña,Eucalipto,2011820
+2014,Lugo,Eucalipto,897050
+2014,Ourense,Eucalipto,1930
+2014,Pontevedra,Eucalipto,974000
+2014,A Coruña,Frondosas,2073360
+2014,Lugo,Frondosas,1023283
+2014,Ourense,Frondosas,30257
+2014,Pontevedra,Frondosas,989856
+2015,A Coruña,Coníferas,987500
+2015,Lugo,Coníferas,854400
+2015,Ourense,Coníferas,663000
+2015,Pontevedra,Coníferas,1018500
+2015,A Coruña,Eucalipto,2329710
+2015,Lugo,Eucalipto,1024300
+2015,Ourense,Eucalipto,2450
+2015,Pontevedra,Eucalipto,1083000
+2015,A Coruña,Frondosas,2404700
+2015,Lugo,Frondosas,1172660
+2015,Ourense,Frondosas,29790
+2015,Pontevedra,Frondosas,1099500
+2016,A Coruña,Coníferas,715258
+2016,Lugo,Coníferas,1455354
+2016,Ourense,Coníferas,357330
+2016,Pontevedra,Coníferas,482522
+2016,A Coruña,Eucalipto,2828576
+2016,Lugo,Eucalipto,2143172
+2016,Ourense,Eucalipto,24720
+2016,Pontevedra,Eucalipto,409282
+2016,A Coruña,Frondosas,2874943
+2016,Lugo,Frondosas,2254132
+2016,Ourense,Frondosas,68409
+2016,Pontevedra,Frondosas,436778
+2017,A Coruña,Coníferas,832792
+2017,Lugo,Coníferas,1855480
+2017,Ourense,Coníferas,458353
+2017,Pontevedra,Coníferas,765766
+2017,A Coruña,Eucalipto,3007395
+2017,Lugo,Eucalipto,1862003
+2017,Ourense,Eucalipto,39356
+2017,Pontevedra,Eucalipto,558374
+2017,A Coruña,Frondosas,3065453
+2017,Lugo,Frondosas,1966333
+2017,Ourense,Frondosas,78951
+2017,Pontevedra,Frondosas,579130
+2018,A Coruña,Coníferas,988087
+2018,Lugo,Coníferas,2023707
+2018,Ourense,Coníferas,338544
+2018,Pontevedra,Coníferas,506271
+2018,A Coruña,Eucalipto,3393700
+2018,Lugo,Eucalipto,1933764
+2018,Ourense,Eucalipto,31027
+2018,Pontevedra,Eucalipto,562952
+2018,A Coruña,Frondosas,3480129
+2018,Lugo,Frondosas,2037534
+2018,Ourense,Frondosas,67287
+2018,Pontevedra,Frondosas,585441
+2019,A Coruña,Coníferas,1050341
+2019,Lugo,Coníferas,1870338
+2019,Ourense,Coníferas,306684
+2019,Pontevedra,Coníferas,579460
+2019,A Coruña,Eucalipto,3293000
+2019,Lugo,Eucalipto,1759682
+2019,Ourense,Eucalipto,33631
+2019,Pontevedra,Eucalipto,534872
+2019,A Coruña,Frondosas,3366052
+2019,Lugo,Frondosas,1866230
+2019,Ourense,Frondosas,80609
+2019,Pontevedra,Frondosas,556420
+2020,A Coruña,Coníferas,917996
+2020,Lugo,Coníferas,1708158
+2020,Ourense,Coníferas,281552
+2020,Pontevedra,Coníferas,520522
+2020,A Coruña,Eucalipto,3070770
+2020,Lugo,Eucalipto,1689199
+2020,Ourense,Eucalipto,41681
+2020,Pontevedra,Eucalipto,549784
+2020,A Coruña,Frondosas,3126107
+2020,Lugo,Frondosas,1784906
+2020,Ourense,Frondosas,81526
+2020,Pontevedra,Frondosas,569847
+2021,A Coruña,Coníferas,1067766
+2021,Lugo,Coníferas,2180706
+2021,Ourense,Coníferas,349419
+2021,Pontevedra,Coníferas,550210
+2021,A Coruña,Eucalipto,3381500
+2021,Lugo,Eucalipto,1626400
+2021,Ourense,Eucalipto,37460
+2021,Pontevedra,Eucalipto,571200
+2021,A Coruña,Frondosas,3438221
+2021,Lugo,Frondosas,1730190
+2021,Ourense,Frondosas,81020
+2021,Pontevedra,Frondosas,596380
