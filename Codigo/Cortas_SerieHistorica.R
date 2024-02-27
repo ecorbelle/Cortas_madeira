@@ -41,7 +41,7 @@ g.total <- ggplot(cortas, aes(x = ano, y = volume/1e6)) +
 
 
 # Exportación ----
-png("Cortas_Galicia.png", width = 15, height = 10, units = "cm", res = 300)
+png("Cortas1.png", width = 15, height = 10, units = "cm", res = 300)
  print(g.total)
 dev.off()
 

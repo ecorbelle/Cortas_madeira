@@ -79,6 +79,6 @@ mapa2 <- tm_shape(muni.long) +
   tm_credits(text = "Eduardo Corbelle, 2024. CC-BY 4.0\nDatos: Sistema de indicadores da administración forestal, Xunta de Galicia")
 
 ## Saída ----
-png("Cortas_concellos.png", width = 15, height = 10, units = "cm", res = 300)
+png("Cortas2.png", width = 15, height = 10, units = "cm", res = 300)
 print(mapa2)
 dev.off()
