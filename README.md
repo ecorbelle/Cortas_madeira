@@ -7,7 +7,8 @@ Datos orixinais:
 * [Anuarios de Estadística Forestal (2005-2021)](https://www.miteco.gob.es/es/biodiversidad/estadisticas/forestal_anuarios_todos.html)
 * [Observatorio Forestal de Galicia](https://ovmediorural.xunta.gal/gl/consultas-publicas/observatorio-forestal)
 
+_______________________________
 
-![Serie histórica](Cortas_Galicia.png)
+![Serie histórica](Cortas1.png)
 
-![Mapa municipal](Cortas_concellos.png)
+![Mapa municipal](Cortas2.png)
