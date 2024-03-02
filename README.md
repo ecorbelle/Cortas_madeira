@@ -9,6 +9,12 @@ Datos orixinais:
 
 _______________________________
 
-![Serie histórica](Cortas1.png)
+![Serie histórica para Galicia](Cortas1.png)
+
+_______________________________
+
+![Serie histórica por provincias](Cortas1b.png)
+
+_______________________________
 
 ![Mapa municipal](Cortas2.png)
