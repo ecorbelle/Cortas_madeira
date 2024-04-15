@@ -13,6 +13,10 @@ _______________________________
 
 _______________________________
 
+![Serie histórica para Galicia, áreas apiladas](Cortas1c.png)
+
+_______________________________
+
 ![Serie histórica por provincias](Cortas1b.png)
 
 _______________________________
